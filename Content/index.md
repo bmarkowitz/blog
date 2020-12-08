@@ -1,1 +1,1 @@
-# Brett Markowitz
+# A blog for random stuff
