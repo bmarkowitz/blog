@@ -165,6 +165,7 @@ a {
 
 .tag-list {
     margin-bottom: 15px;
+    margin-left: 0px;
 }
 
 .tag-list li,
