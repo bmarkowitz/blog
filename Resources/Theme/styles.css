@@ -70,6 +70,7 @@ body {
     color: #000;
     font-family: Helvetica, Arial;
     text-align: center;
+    line-height: 1.4em;
 }
 
 .wrapper {
@@ -114,9 +115,15 @@ nav li a.selected {
     text-decoration: underline;
 }
 
+ul, ol {
+    margin-left: 40px;
+    padding-bottom: 10px;
+}
+
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
+    line-height: 1.2em;
 }
 
 h2 {
