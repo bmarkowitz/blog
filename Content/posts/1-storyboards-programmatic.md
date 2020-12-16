@@ -338,7 +338,7 @@ This function is the code that will run every single time we press the log in bu
 
 We have everything we need now to start writing the logic for our login screen, so we can close out of the storyboard.
 
-This can be done by clicking the Venn diagram icon at the upper right corner of the editor, then clicking “Show Editor Only.” Now we can navigate to ViewController.swift using the left sidebar.
+This can be done by clicking the Venn diagram icon at the upper right corner of the editor, then clicking “Show Editor Only.” Now we can navigate to `ViewController.swift` using the left sidebar.
 
 The first thing we need to do is establish what our valid username and password are. Let’s initialize these at somewhere at the top of our class:
 
@@ -376,7 +376,7 @@ if typedUsername == knownUsername && typedPassword == knownPassword {
 
 Regardless of whether the credentials are correct or not, we need to create an alert. An alert in iOS can be created with a UIAlertController. They typically have a title, a message, and one or more buttons, which can run code when pressed if we want.
 
-You can find some information about them in [Apple's Human Inteface Guidelines]("https://developer.apple.com/design/human-interface-guidelines/ios/views/alerts/").
+You can find some information about them in [Apple's Human Inteface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/views/alerts/).
 
 Here's what it looks like in code if we create a UIAlertController for the case where our credentials are correct and the case where they aren't:
 
