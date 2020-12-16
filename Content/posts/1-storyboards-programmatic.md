@@ -462,3 +462,5 @@ If we run our app now, everything should work as we expect. We'll get an alert w
 So that's our sample app built with a storyboard. It's very simple, but that's deliberate so we can more easily see the differences between an app built with storyboards and app built programmatically.
 
 In the next part of this series, we'll build the same app entirely in code, and after that, we'll take a look at some of the differences between the two approaches.
+
+You can find the completed project from this post [here](https://github.com/bmarkowitz/blog-storyboard-example).
