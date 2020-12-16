@@ -1,3 +1,5 @@
-Output/
+.publish/
+.build/
 .DS_Store
 .swiftpm/
+Output/

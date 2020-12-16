@@ -115,6 +115,14 @@ nav li a.selected {
     text-decoration: underline;
 }
 
+img {
+    width: 85%;
+    height: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 ul, ol {
     margin-left: 40px;
     padding-bottom: 10px;
@@ -130,6 +138,11 @@ h2 {
     margin: 20px 0;
 }
 
+h3 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
 p {
     margin-bottom: 10px;
 }
@@ -140,6 +153,10 @@ a {
 
 .description {
     margin-bottom: 40px;
+}
+
+.item-list {
+    margin-left: 0;
 }
 
 .item-list > li {
