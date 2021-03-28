@@ -26,7 +26,7 @@ This means the Interface drop-down should say "Storyboard", Life Cycle should be
 
 The reason why we need to select "Storyboard" for the Interface drop-down is because Apple doesn't explicitly provide us a way to not use storyboards (without using SwiftUI, of course). As a result, we need to simply tell it we want to use storyboards and then go in and do some manual setup to remove storyboards from the project.
 
-Click next and choose a location to your project to finish creating it. 
+Click next and choose a location for your project to finish creating it. 
 
 ### Removing the storyboard
 
